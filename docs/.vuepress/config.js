@@ -30,7 +30,7 @@ module.exports = {
             })();
         `],
         */
-        //    markdown中第三方图片加载不出来的问题
+        //    markdown中图片链接加载不出来的问题
         [
             "meta",
             {

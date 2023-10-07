@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "d42475522e136233ca5b82563ce7b159"
+    "revision": "088bc6a6b00742105928a82dc9292efa"
   },
   {
     "url": "assets/css/0.styles.8cb00dde.css",
@@ -170,24 +170,24 @@ self.__precacheManifest = [
     "revision": "5d2c01c4b9ce2d3ef788097102ef911b"
   },
   {
-    "url": "assets/js/41.373cbecd.js",
-    "revision": "1c8e5b8229dd932c48af6e53ee60f3f2"
+    "url": "assets/js/41.57a9050f.js",
+    "revision": "00412deb5c595a9ad1660291516c6037"
   },
   {
-    "url": "assets/js/42.55a40ccc.js",
-    "revision": "36a15a172d4f034cbd42a34a96285bdd"
+    "url": "assets/js/42.b802577b.js",
+    "revision": "efb550364950df0a697b3d44f2b1385c"
   },
   {
-    "url": "assets/js/43.d74b5bad.js",
-    "revision": "08ea49c6a31ecd2c5d809921e8a08295"
+    "url": "assets/js/43.01944b0b.js",
+    "revision": "aa49c455fcbf13f3169a678641e9f386"
   },
   {
-    "url": "assets/js/44.6cd7ddc1.js",
-    "revision": "b9381f96c85df836a94eac1c8d207dae"
+    "url": "assets/js/44.417703bc.js",
+    "revision": "2f02b9f7c7f1730e661ed29bd6734ec6"
   },
   {
-    "url": "assets/js/45.3af90d2c.js",
-    "revision": "96f76f2bd95866ce05dfbb8d7024fb9f"
+    "url": "assets/js/45.5f1c9052.js",
+    "revision": "4e87da289d5cc3870eda1faccf68bfd3"
   },
   {
     "url": "assets/js/46.2ce816b5.js",
@@ -222,8 +222,8 @@ self.__precacheManifest = [
     "revision": "da56bc264a734223156eca67d5b2b3e1"
   },
   {
-    "url": "assets/js/app.b9c22207.js",
-    "revision": "e8c409384354e675da45b489778dbf7c"
+    "url": "assets/js/app.350cab42.js",
+    "revision": "163e4d5937fb76f544056338718a32c0"
   },
   {
     "url": "assets/js/baidu.js",
@@ -247,27 +247,27 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "abe743f1284cc97240579ab20a365c9e"
+    "revision": "65e556959a63b5bde9ad33600daa9f5f"
   },
   {
     "url": "categories/个人笔记/index.html",
-    "revision": "99721e3f2000bc41186d0f5005866d1c"
+    "revision": "53b54ff40c9a5692180e62ce65450d9d"
   },
   {
     "url": "categories/实用工具/index.html",
-    "revision": "0dae681508b4a8c68e087619a8482307"
+    "revision": "f731d26e7dd0719e7671240eb6c7e570"
   },
   {
     "url": "categories/数据库/index.html",
-    "revision": "f24d20af6f7d8e6fd56803c6f9323e4b"
+    "revision": "5076c277760cad047572a4eb23a7ca04"
   },
   {
     "url": "css/style.css",
-    "revision": "d3bc02450a06489e215a44ea3c727d54"
+    "revision": "2a9aae5a485dcdea7f8f6cdb94a2bcd1"
   },
   {
     "url": "guide/index.html",
-    "revision": "cd5ceedf6b26563f84a0f49f2b779f05"
+    "revision": "30a038f0fa555b834ed3b1391615b32d"
   },
   {
     "url": "hero_white.png",
@@ -303,7 +303,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "0f44af19abcfa1afa250cf3168a06dfd"
+    "revision": "55e6d6b0bb45f0a34a10abaecd63c0b0"
   },
   {
     "url": "js/custom.js",
@@ -311,23 +311,23 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "761e9d7b4ac32674cf8d9bd9fb1425a9"
+    "revision": "d3a789c270584e7766b87b8c6e07ac1a"
   },
   {
     "url": "tags/MySQL/index.html",
-    "revision": "c93940fba023220f28577f12ecebfb21"
+    "revision": "3842588b639458fdc459760ce85d2f53"
   },
   {
     "url": "tags/个人笔记/index.html",
-    "revision": "c0ddccfc4a8260a78b559b77b5a2bba3"
+    "revision": "7a0655862795ac0ba98f87cb8da9b03d"
   },
   {
     "url": "tags/实用软件/index.html",
-    "revision": "164972241f475089123af7f9f704616f"
+    "revision": "d4295092451a8d2c01f9e2d4241d0bcf"
   },
   {
     "url": "timeline/index.html",
-    "revision": "273cb1ad349eb675dda44cb2ea359abe"
+    "revision": "bf77e396a1929b2b7aa3fd5541923e0f"
   },
   {
     "url": "view.png",
@@ -335,35 +335,35 @@ self.__precacheManifest = [
   },
   {
     "url": "个人笔记/index.html",
-    "revision": "7ed7093158dc7a3750c125b65c4a1fd4"
+    "revision": "28fceedf5a99b8c39b3ea4abb58c6b86"
   },
   {
     "url": "实用工具/index.html",
-    "revision": "50bdf705b473e16d1eaec9f62745fb52"
+    "revision": "20334e16cce5115b262cee4a75445a28"
   },
   {
     "url": "实用工具/压缩软件/index.html",
-    "revision": "5ceb89c784eb9b2f102525d69e9fcd43"
+    "revision": "5c2ad570ade7a054e20a5dbcd0e056dd"
   },
   {
     "url": "实用工具/截图软件/index.html",
-    "revision": "e5b40a21f45fa8f8d3326256bc8044af"
+    "revision": "0e2037bc351b1172a29a736b6408581e"
   },
   {
     "url": "实用工具/播放器软件/index.html",
-    "revision": "bafd1547ca95c7a28baa05c31f262ac2"
+    "revision": "2d23b88a85e361797403672a2be039aa"
   },
   {
     "url": "实用工具/音乐软件/index.html",
-    "revision": "d69a9f1e3192ecc103b4039274b8b299"
+    "revision": "3b91f6e749020733a81ed3d0db9973d5"
   },
   {
     "url": "数据库/MySQL/MySQL基础篇.html",
-    "revision": "9920d7d8d1cfa31f68973b84c581c133"
+    "revision": "43074676c30ef4e55503a4c49c4cce8c"
   },
   {
     "url": "数据库/MySQL/MySQL进阶篇.html",
-    "revision": "90dd0efdf8856d6c5c88fbe25642e4a8"
+    "revision": "7c621711141d277f5dbbd0696a9d4b58"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
