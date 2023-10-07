@@ -143,8 +143,8 @@ module.exports = {
   },
   'vuepress-plugin-sponsor': {
     theme: 'simple',
-    alipay: '/img/alipay.jpg',
-    wechat: '/img/wechatpay.jpg',
+    alipay: '../img/alipay.jpg',
+    wechat: '../img/wechatpay.jpg',
     qq: '',
     paypal: '',
     duration: 2000
