@@ -1,14 +1,14 @@
 //百度统计
 var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?xxxxx59e735ff8670c03";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
+(function () {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?xxxxx59e735ff8670c03";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
 })();
 
 //百度站长自动推送
-(function(){
+(function () {
     var bp = document.createElement('script');
     var curProtocol = window.location.protocol.split(':')[0];
     if (curProtocol === 'https') {
@@ -22,7 +22,7 @@ var _hmt = _hmt || [];
 })();
 
 //360
-(function(){
+(function () {
     var src = "https://jspassport.ssl.qhimg.com/11.0.1.js?xxxx83acfaaf6e696dba";
     document.write('<script src="' + src + '" id="sozz"><\/script>');
-    })();
+})();

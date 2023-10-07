@@ -5,17 +5,17 @@ const pluginsConf = require('./config/plugins/index')
 module.exports = {
     //注意，此处需要填写你部署在nginx下的文件夹名称，如果是根目录，那么可以注释掉此行，注释掉后本地打开index.html无法访问
     base: "/docs/",
-    title: "君哥聊编程",
+    title: "猫的树",
     description: '点赞、转发、收藏',
     dest: './dist',
     port: '7777',
     head: [
         ['link', { rel: 'icon', href: '/img/favicon.ico' }],
-        ['meta', { name: 'keywords', content: '君哥聊编程,vuepress,自建博客,君哥' }],
-        ['meta', { name: 'description', content: '专属于自学者的在线学习平台,这里有编程领域最完善最「体系化的」Java学习视频、如果你是小白快加入我们一起学最全最「体系化的」java知识吧，官方交流QQ群：827553720' }],
+        ['meta', { name: 'keywords', content: '猫的树个人笔记,vuepress,自建博客,猫的树' }],
+        ['meta', { name: 'description', content: '我的个人笔记' }],
         ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
         ["meta", { name: "robots", content: "all" }],
-        ["meta", { name: "author", content: "君哥" }],
+        ["meta", { name: "author", content: "猫的树" }],
         ["link", { rel: "stylesheet", href: "/css/style.css" }],//显示nav小logo
         ["script", { charset: "utf-8", src: "/js/custom.js" }],//加载右侧菜单栏图片
         // 百度统计
@@ -58,9 +58,9 @@ module.exports = {
             visitor:true,
         },
         */
-        authorAvatar: '/avatar.png',
+        authorAvatar: '/avatar.jpg',
         // 最后更新时间
-        lastUpdated: '2021-04-07', // string | boolean
+        lastUpdated: '2023-10-07', // string | boolean
         //repo: 'it235',
         // 如果你的文档不在仓库的根部
         //docsDir: 'docs',
@@ -69,9 +69,9 @@ module.exports = {
         //editLinks: true,
         //editLinkText: '在 GitHub 上编辑此页！',
         // 作者
-        author: '君哥',
+        author: '猫的树',
         // 项目开始时间
-        startYear: '2022',
+        startYear: '2023',
         nav: navConf,
         sidebar: sidebarConf,
         sidebarDepth: 2,
@@ -82,11 +82,11 @@ module.exports = {
         search: true,
         searchMaxSuggestions: 10,
         // ICP备案
-        record: '沪ICP备xxxxx号-6',
-        recordLink: 'https://beian.miit.gov.cn/',
+        // record: '沪ICP备xxxxx号-6',
+        // recordLink: 'https://beian.miit.gov.cn/',
         // 公网安备备案
-        cyberSecurityRecord: '沪公网安备 xxxxxxx号',
-        cyberSecurityLink: 'http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=xxx05177',
+        // cyberSecurityRecord: '沪公网安备 xxxxxxx号',
+        // cyberSecurityLink: 'http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=xxx05177',
         //友链
         friendLink: [
             {
@@ -106,5 +106,14 @@ module.exports = {
     markdown: {
         lineNumbers: true
     },
-    plugins: pluginsConf
+    plugins: pluginsConf,
+    head: [
+        [
+            "meta",
+            {
+                name: "referrer",
+                content: "no-referrer"
+            }
+        ],
+    ],
 }

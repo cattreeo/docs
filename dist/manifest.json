@@ -1,16 +1,16 @@
 {
-  "name": "君哥聊編程",
-  "short_name": "君哥",
+  "name": "猫的树个人笔记",
+  "short_name": "猫的树",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2196f3",
-  "description": "君哥聊編程主页",
+  "description": "猫的树的个人笔记",
   "theme_color": "blue",
   "icons": [
     {
-      "src": "./img/logo.png",
+      "src": "./img/logo.jpg",
       "sizes": "144x144",
-      "type": "image/png"
+      "type": "image/jpg"
     }
   ],
   "related_applications": [
