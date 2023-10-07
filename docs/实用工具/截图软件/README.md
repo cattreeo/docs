@@ -2,8 +2,8 @@
 title: 截图软件合集
 date: 2023-10-07
 sidebarDepth: 2
-categories:
-  - 实用工具
+# categories:
+#   - 实用工具
 tags:
   - 实用软件
 author: 猫的树

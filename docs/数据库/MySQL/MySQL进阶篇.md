@@ -2,8 +2,8 @@
 title: MySQL进阶篇
 date: 2023-10-07
 sidebarDepth: 2
-categories:
-  - 数据库
+# categories:
+#   - 数据库
 tags:
   - MySQL
 author: 猫的树
