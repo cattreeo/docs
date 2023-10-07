@@ -8,9 +8,9 @@
   "theme_color": "blue",
   "icons": [
     {
-      "src": "./img/logo.jpg",
+      "src": "./img/logo.png",
       "sizes": "144x144",
-      "type": "image/jpg"
+      "type": "image/png"
     }
   ],
   "related_applications": [

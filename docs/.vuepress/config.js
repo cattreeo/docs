@@ -30,6 +30,14 @@ module.exports = {
             })();
         `],
         */
+        //    markdown中第三方图片加载不出来的问题
+        [
+            "meta",
+            {
+                name: "referrer",
+                content: "no-referrer"
+            }
+        ],
     ],
     theme: 'reco',
     themeConfig: {
@@ -107,13 +115,5 @@ module.exports = {
         lineNumbers: true
     },
     plugins: pluginsConf,
-    head: [
-        [
-            "meta",
-            {
-                name: "referrer",
-                content: "no-referrer"
-            }
-        ],
-    ],
+
 }
