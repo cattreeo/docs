@@ -9560,6 +9560,11 @@ vuepress-plugin-social-share@^0.3.1:
   dependencies:
     deepmerge "^4.2.2"
 
+vuepress-plugin-sponsor@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmmirror.com/vuepress-plugin-sponsor/-/vuepress-plugin-sponsor-1.0.0.tgz#376e21efc98d6ae271db4aaaa04cf5206b2c74f0"
+  integrity sha512-tXKhu1RN/zusQy1qela/SpKIKyRfzAsGNE1NZVcW99P3V4QzWigMvfNWlXipy3D4O/g8OrJza+hsSN95/4fAyA==
+
 vuepress-theme-reco@1.2.2:
   version "1.2.2"
   resolved "https://registry.npmmirror.com/vuepress-theme-reco/-/vuepress-theme-reco-1.2.2.tgz#2ba430738128bd7eabf24eabdc8c907d17ba5383"

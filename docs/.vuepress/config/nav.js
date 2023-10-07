@@ -4,7 +4,7 @@ module.exports = [
     },
     {
         text: '数据库',
-        icon: 'reco-database',
+        icon: 'reco-api',
         items: [
             {
                 text: 'MySQL',
@@ -29,6 +29,9 @@ module.exports = [
                 ]
             },
         ]
+    },
+    {
+        text: '打赏', link: '/打赏/', icon: 'reco-three'
     },
     {
         text: '时间轴', link: '/timeline/', icon: 'reco-date'

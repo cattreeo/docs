@@ -141,4 +141,12 @@ module.exports = {
     email: "nobug@mail.com", //email地址
     wechatQrcodeTitle: '微信扫一扫：分享', // 微信二维码提示文字
   },
+  'vuepress-plugin-sponsor': {
+    theme: 'simple',
+    alipay: '/img/alipay.jpg',
+    wechat: '/img/wechatpay.jpg',
+    qq: '',
+    paypal: '',
+    duration: 2000
+  }
 }
