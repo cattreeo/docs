@@ -1,5 +1,8 @@
 module.exports = [
     {
+        text: '首页', link: '/', icon: 'reco-home'
+    },
+    {
         text: '本站指南', link: '/guide/', icon: 'reco-eye'
     },
     {
